@@ -1,0 +1,11 @@
+// ==UserScript==
+// @name          userscript-template
+// @namespace     thorou
+// @version       ${version}
+// @description   userscript template using gulp and browserify
+// @author        Thorou
+// @license       GPLv3 - http://www.gnu.org/licenses/gpl-3.0.txt
+// @homepageURL   https://github.com/thorio/userscript-template
+// @match         https://github.com/thorio/userscript-template
+// @require       http://code.jquery.com/jquery-3.3.1.min.js
+// ==/UserScript==
